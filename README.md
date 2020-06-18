@@ -18,4 +18,4 @@ Fiz esse código vendo um vídeo do "edureka" link → https://www.youtube.com/w
 Pretendo criar um "gerador de senhas", para criar nossos wordlists, contudo você pode obter um na internet.
 
 <strong>NOTA: Adicionei um "passgen.py", substitua o valor da váriavel "chars" pelos valores que você quer. E "n" pelo numero de caracteres.</strong> 
-<h4>Gerar wordlists pode demorar um pouco e gerar arquivos enormes, com 5 letras e 5 numeros, consegui processar em poucos segundos aqui, mas resultou em 1GB de texto</h4>
+<h4>Gerar wordlists pode demorar um pouco e gerar arquivos enormes, com 5 letras e 5 numeros, 8 caracteres, consegui processar em poucos segundos aqui, mas resultou em 1GB de texto</h4>
