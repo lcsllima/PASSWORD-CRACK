@@ -16,3 +16,6 @@ Olá pessoal, aqui temos um "quebrador de senhas", é bem simples, você deve cr
 pode transformar cada uma em um "hash" para comparar com o "hash" da senha que você quer descobrir.
 Fiz esse código vendo um vídeo do "edureka" link → https://www.youtube.com/watch?v=CV_mMAYzTxw
 Pretendo criar um "gerador de senhas", para criar nossos wordlists, contudo você pode obter um na internet.
+
+<strong>NOTA: Adicionei um "passgen.py", substitua o valor da váriavel "chars" pelos valores que você quer. E "n" pelo numero de caracteres.</strong> 
+<h4>Gerar wordlists pode demorar um pouco e gerar arquivos enormes, com 5 letras e 5 numeros, consegui processar em poucos segundos aqui, mas resultou em 1GB de texto</h4>
